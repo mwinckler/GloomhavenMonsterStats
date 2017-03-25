@@ -1,23 +1,6 @@
 {
-  "resources": {
-    "elements": {
-        "consumeNight": null,
-        "consumeDay": null
-    },
-    "elderDrake": {
-        "special1Area": null
-    },
-    "inoxBodyguard": {
-        "special1Area": null
-    },
-    "sightlessEye": {
-        "special1Area": null,
-        "special2Area": null
-    }
-  },
   "monsters": {
-    "ancientArtillery": {
-      "name": "Ancient Artillery",
+    "Ancient Artillery": {
       "level": [
         {
           "level": 0,
@@ -165,8 +148,7 @@
         }
       ]
     },
-    "banditArcher": {
-      "name": "Bandit Archer",
+    "Bandit Archer": {
       "level": [
         {
           "level": 0,
@@ -314,8 +296,7 @@
         }
       ]
     },
-    "banditGuard": {
-      "name": "Bandit Guard",
+    "Bandit Guard": {
       "level": [
         {
           "level": 0,
@@ -473,8 +454,7 @@
         }
       ]
     },
-    "blackImp": {
-      "name": "Black Imp",
+    "Black Imp": {
       "level": [
         {
           "level": 0,
@@ -649,8 +629,7 @@
         }
       ]
     },
-    "caveBear": {
-      "name": "Cave Bear",
+    "Cave Bear": {
       "level": [
         {
           "level": 0,
@@ -804,8 +783,7 @@
         }
       ]
     },
-    "cityArcher": {
-      "name": "City Archer",
+    "City Archer": {
       "level": [
         {
           "level": 0,
@@ -976,8 +954,7 @@
         }
       ]
     },
-    "cityGuard": {
-      "name": "City Guard",
+    "City Guard": {
       "level": [
         {
           "level": 0,
@@ -1152,8 +1129,7 @@
         }
       ]
     },
-    "cultist": {
-      "name": "Cultist",
+    "Cultist": {
       "level": [
         {
           "level": 0,
@@ -1309,8 +1285,7 @@
         }
       ]
     },
-    "deepTerror": {
-      "name": "Deep Terror",
+    "Deep Terror": {
       "level": [
         {
           "level": 0,
@@ -1478,8 +1453,7 @@
         }
       ]
     },
-    "earthDemon": {
-      "name": "Earth Demon",
+    "Earth Demon": {
       "level": [
         {
           "level": 0,
@@ -1635,8 +1609,7 @@
         }
       ]
     },
-    "flameDemon": {
-      "name": "Flame Demon",
+    "Flame Demon": {
       "level": [
         {
           "level": 0,
@@ -1836,8 +1809,7 @@
         }
       ]
     },
-    "frostDemon": {
-      "name": "Frost Demon",
+    "Frost Demon": {
       "level": [
         {
           "level": 0,
@@ -2005,8 +1977,7 @@
         }
       ]
     },
-    "forestImp": {
-      "name": "Forest Imp",
+    "Forest Imp": {
       "level": [
         {
           "level": 0,
@@ -2187,8 +2158,7 @@
         }
       ]
     },
-    "giantViper": {
-      "name": "Giant Viper",
+    "Giant Viper": {
       "level": [
         {
           "level": 0,
@@ -2360,8 +2330,7 @@
         }
       ]
     },
-    "harrowerInfester": {
-      "name": "Harrower Infester",
+    "Harrower Infester": {
       "level": [
         {
           "level": 0,
@@ -2529,8 +2498,7 @@
         }
       ]
     },
-    "hound": {
-      "name": "Hound",
+    "Hound": {
       "level": [
         {
           "level": 0,
@@ -2698,8 +2666,7 @@
         }
       ]
     },
-    "inoxArcher": {
-      "name": "Inox Archer",
+    "Inox Archer": {
       "level": [
         {
           "level": 0,
@@ -2851,8 +2818,7 @@
         }
       ]
     },
-    "inoxGuard": {
-      "name": "Inox Guard",
+    "Inox Guard": {
       "level": [
         {
           "level": 0,
@@ -3016,8 +2982,7 @@
         }
       ]
     },
-    "inoxShaman": {
-      "name": "Inox Shaman",
+    "Inox Shaman": {
       "level": [
         {
           "level": 0,
@@ -3157,8 +3122,7 @@
         }
       ]
     },
-    "livingBones": {
-      "name": "Living Bones",
+    "Living Bones": {
       "level": [
         {
           "level": 0,
@@ -3344,8 +3308,7 @@
         }
       ]
     },
-    "livingCorpse": {
-      "name": "Living Corpse",
+    "Living Corpse": {
       "level": [
         {
           "level": 0,
@@ -3497,8 +3460,7 @@
         }
       ]
     },
-    "livingSpirit": {
-      "name": "Living Spirit",
+    "Living Spirit": {
       "level": [
         {
           "level": 0,
@@ -3670,8 +3632,7 @@
         }
       ]
     },
-    "lurker": {
-      "name": "Lurker",
+    "Lurker": {
       "level": [
         {
           "level": 0,
@@ -3869,8 +3830,7 @@
         }
       ]
     },
-    "ooze": {
-      "name": "Ooze",
+    "Ooze": {
       "level": [
         {
           "level": 0,
@@ -4046,8 +4006,7 @@
         }
       ]
     },
-    "nightDemon": {
-      "name": "Night Demon",
+    "Night Demon": {
       "level": [
         {
           "level": 0,
@@ -4219,8 +4178,7 @@
         }
       ]
     },
-    "rendingDrake": {
-      "name": "Rending Drake",
+    "Rending Drake": {
       "level": [
         {
           "level": 0,
@@ -4388,8 +4346,7 @@
         }
       ]
     },
-    "savvasIcestorm": {
-      "name": "Savvas Icestorm",
+    "Savvas Icestorm": {
       "level": [
         {
           "level": 0,
@@ -4573,8 +4530,7 @@
         }
       ]
     },
-    "savvasLavaflow": {
-      "name": "Savvas Lavaflow",
+    "Savvas Lavaflow": {
       "level": [
         {
           "level": 0,
@@ -4751,8 +4707,7 @@
         }
       ]
     },
-    "spittingDrake": {
-      "name": "Spitting Drake",
+    "Spitting Drake": {
       "level": [
         {
           "level": 0,
@@ -4918,8 +4873,7 @@
         }
       ]
     },
-    "stoneGolem": {
-      "name": "Stone Golem",
+    "Stone Golem": {
       "level": [
         {
           "level": 0,
@@ -5089,8 +5043,7 @@
         }
       ]
     },
-    "sunDemon": {
-      "name": "Sun Demon",
+    "Sun Demon": {
       "level": [
         {
           "level": 0,
@@ -5278,8 +5231,7 @@
         }
       ]
     },
-    "vermlingScout": {
-      "name": "Vermling Scout",
+    "Vermling Scout": {
       "level": [
         {
           "level": 0,
@@ -5419,8 +5371,7 @@
         }
       ]
     },
-    "vermlingShaman": {
-      "name": "Vermling Shaman",
+    "Vermling Shaman": {
       "level": [
         {
           "level": 0,
@@ -5600,8 +5551,7 @@
         }
       ]
     },
-    "windDemon": {
-      "name": "Wind Demon",
+    "Wind Demon": {
       "level": [
         {
           "level": 0,
@@ -5779,8 +5729,7 @@
     }
   },
   "bosses": {
-    "banditCommander": {
-      "name": "Bandit Commander",
+    "Bandit Commander": {
       "level": [
         {
           "level": 0,
@@ -5936,8 +5885,7 @@
         }
       ]
     },
-    "theBetrayer": {
-      "name": "The Betrayer",
+    "The Betrayer": {
       "level": [
         {
           "level": 0,
@@ -6109,8 +6057,7 @@
         }
       ]
     },
-    "captainoftheGuard": {
-      "name": "Captain of the Guard",
+    "Captain of the Guard": {
       "level": [
         {
           "level": 0,
@@ -6247,8 +6194,7 @@
         }
       ]
     },
-    "theColorless": {
-      "name": "The Colorless",
+    "The Colorless": {
       "level": [
         {
           "level": 0,
@@ -6444,8 +6390,7 @@
         }
       ]
     },
-    "darkRider": {
-      "name": "Dark Rider",
+    "Dark Rider": {
       "level": [
         {
           "level": 0,
@@ -6633,8 +6578,7 @@
         }
       ]
     },
-    "elderDrake": {
-      "name": "Elder Drake",
+    "Elder Drake": {
       "level": [
         {
           "level": 0,
@@ -6806,8 +6750,7 @@
         }
       ]
     },
-    "theGloom": {
-      "name": "The Gloom",
+    "The Gloom": {
       "level": [
         {
           "level": 0,
@@ -7043,8 +6986,7 @@
         }
       ]
     },
-    "inoxBodyguard": {
-      "name": "Inox Bodyguard",
+    "Inox Bodyguard": {
       "level": [
         {
           "level": 0,
@@ -7232,8 +7174,7 @@
         }
       ]
     },
-    "jekserah": {
-      "name": "Jekserah",
+    "Jekserah": {
       "level": [
         {
           "level": 0,
@@ -7421,8 +7362,7 @@
         }
       ]
     },
-    "mercilessOverseer": {
-      "name": "Merciless Overseer",
+    "Merciless Overseer": {
       "level": [
         {
           "level": 0,
@@ -7586,8 +7526,7 @@
         }
       ]
     },
-    "primeDemon": {
-      "name": "Prime Demon",
+    "Prime Demon": {
       "level": [
         {
           "level": 0,
@@ -7815,8 +7754,7 @@
         }
       ]
     },
-    "theSightlessEye": {
-      "name": "The Sightless Eye",
+    "The Sightless Eye": {
       "level": [
         {
           "level": 0,
@@ -7996,8 +7934,7 @@
         }
       ]
     },
-    "wingedHorror": {
-      "name": "Winged Horror",
+    "Winged Horror": {
       "level": [
         {
           "level": 0,
