@@ -3909,7 +3909,7 @@
             "range": 4,
             "attributes": [
               "Poison",
-              "Shield 2"
+              "Shield 1"
             ]
           }
         },
@@ -4721,7 +4721,7 @@
           "elite": {
             "health": 8,
             "move": 3,
-            "attack": 5,
+            "attack": 4,
             "range": 4,
             "attributes": []
           }
@@ -7948,7 +7948,7 @@
             "Hatch eggs"
           ],
           "special2": [
-            "Summon P eggs",
+            "Summon C eggs",
             "Move -1",
             "Attack +0"
           ],
@@ -7973,7 +7973,7 @@
             "Hatch eggs"
           ],
           "special2": [
-            "Summon P eggs",
+            "Summon C eggs",
             "Move -1",
             "Attack +0"
           ],
@@ -7998,7 +7998,7 @@
             "Hatch eggs"
           ],
           "special2": [
-            "Summon P eggs",
+            "Summon C eggs",
             "Move -1",
             "Attack +0"
           ],
@@ -8023,7 +8023,7 @@
             "Hatch eggs"
           ],
           "special2": [
-            "Summon P eggs",
+            "Summon C eggs",
             "Move -1",
             "Attack +0"
           ],
@@ -8048,7 +8048,7 @@
             "Hatch eggs"
           ],
           "special2": [
-            "Summon P eggs",
+            "Summon C eggs",
             "Move -1",
             "Attack +0"
           ],
@@ -8073,7 +8073,7 @@
             "Hatch eggs"
           ],
           "special2": [
-            "Summon P eggs",
+            "Summon C eggs",
             "Move -1",
             "Attack +0"
           ],
@@ -8098,7 +8098,7 @@
             "Hatch eggs"
           ],
           "special2": [
-            "Summon P eggs",
+            "Summon C eggs",
             "Move -1",
             "Attack +0"
           ],
@@ -8123,7 +8123,7 @@
             "Hatch eggs"
           ],
           "special2": [
-            "Summon P eggs",
+            "Summon C eggs",
             "Move -1",
             "Attack +0"
           ],
