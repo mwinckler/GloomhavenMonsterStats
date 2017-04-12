@@ -1643,7 +1643,7 @@
             "range": 3,
             "attributes": [
               "Flying",
-              "Sheild 3"
+              "Shield 3"
             ]
           },
           "elite": {
@@ -6093,7 +6093,12 @@
             "All allies add +1 Attack to all attacks this round",
             "Attack +1"
           ],
-          "immunities": [],
+          "immunities": [
+            "Disarm",
+            "Wound",
+            "Muddle",
+            "Stun"
+          ],
           "notes": ""
         },
         {
@@ -6109,7 +6114,12 @@
             "All allies add +1 Attack to all attacks this round",
             "Attack +1"
           ],
-          "immunities": [],
+          "immunities": [
+            "Disarm",
+            "Wound",
+            "Muddle",
+            "Stun"
+          ],
           "notes": ""
         },
         {
@@ -6125,7 +6135,12 @@
             "All allies add +1 Attack to all attacks this round",
             "Attack +1"
           ],
-          "immunities": [],
+          "immunities": [
+            "Disarm",
+            "Wound",
+            "Muddle",
+            "Stun"
+          ],
           "notes": ""
         },
         {
@@ -6141,7 +6156,12 @@
             "All allies add +1 Attack to all attacks this round",
             "Attack +1"
           ],
-          "immunities": [],
+          "immunities": [
+            "Disarm",
+            "Wound",
+            "Muddle",
+            "Stun"
+          ],
           "notes": ""
         },
         {
@@ -6157,7 +6177,12 @@
             "All allies add +1 Attack to all attacks this round",
             "Attack +1"
           ],
-          "immunities": [],
+          "immunities": [
+            "Disarm",
+            "Wound",
+            "Muddle",
+            "Stun"
+          ],
           "notes": ""
         },
         {
@@ -6173,7 +6198,12 @@
             "All allies add +1 Attack to all attacks this round",
             "Attack +1"
           ],
-          "immunities": [],
+          "immunities": [
+            "Disarm",
+            "Wound",
+            "Muddle",
+            "Stun"
+          ],
           "notes": ""
         },
         {
@@ -6189,7 +6219,12 @@
             "All allies add +1 Attack to all attacks this round",
             "Attack +1"
           ],
-          "immunities": [],
+          "immunities": [
+            "Disarm",
+            "Wound",
+            "Muddle",
+            "Stun"
+          ],
           "notes": ""
         }
       ]
@@ -6203,11 +6238,11 @@
           "attack": 2,
           "range": 0,
           "special1": [
-            "{{resources.elements.consumeNight}}: Summon Night Demon",
+            "{{resources.elements.consumeDark}}: Summon Night Demon",
             "Invisible, Self"
           ],
           "special2": [
-            "{{resources.elements.consumeDay}}: Summon Sun Demon",
+            "{{resources.elements.consumeLight}}: Summon Sun Demon",
             "Heal 4, Self",
             "Shield 1"
           ],
@@ -6227,11 +6262,11 @@
           "attack": 3,
           "range": 0,
           "special1": [
-            "{{resources.elements.consumeNight}}: Summon Night Demon",
+            "{{resources.elements.consumeDark}}: Summon Night Demon",
             "Invisible, Self"
           ],
           "special2": [
-            "{{resources.elements.consumeDay}}: Summon Sun Demon",
+            "{{resources.elements.consumeLight}}: Summon Sun Demon",
             "Heal 4, Self",
             "Shield 1"
           ],
@@ -6251,11 +6286,11 @@
           "attack": 3,
           "range": 0,
           "special1": [
-            "{{resources.elements.consumeNight}}: Summon Night Demon",
+            "{{resources.elements.consumeDark}}: Summon Night Demon",
             "Invisible, Self"
           ],
           "special2": [
-            "{{resources.elements.consumeDay}}: Summon Sun Demon",
+            "{{resources.elements.consumeLight}}: Summon Sun Demon",
             "Heal 5, Self",
             "Shield 1"
           ],
@@ -6275,11 +6310,11 @@
           "attack": 4,
           "range": 0,
           "special1": [
-            "{{resources.elements.consumeNight}}: Summon Night Demon",
+            "{{resources.elements.consumeDark}}: Summon Night Demon",
             "Invisible, Self"
           ],
           "special2": [
-            "{{resources.elements.consumeDay}}: Summon Sun Demon",
+            "{{resources.elements.consumeLight}}: Summon Sun Demon",
             "Heal 5, Self",
             "Shield 1"
           ],
@@ -6299,11 +6334,11 @@
           "attack": 4,
           "range": 0,
           "special1": [
-            "{{resources.elements.consumeNight}}: Summon Night Demon",
+            "{{resources.elements.consumeDark}}: Summon Night Demon",
             "Invisible, Self"
           ],
           "special2": [
-            "{{resources.elements.consumeDay}}: Summon Sun Demon",
+            "{{resources.elements.consumeLight}}: Summon Sun Demon",
             "Heal 6, Self",
             "Shield 1"
           ],
@@ -6323,11 +6358,11 @@
           "attack": 5,
           "range": 0,
           "special1": [
-            "{{resources.elements.consumeNight}}: Summon Night Demon",
+            "{{resources.elements.consumeDark}}: Summon Night Demon",
             "Invisible, Self"
           ],
           "special2": [
-            "{{resources.elements.consumeDay}}: Summon Sun Demon",
+            "{{resources.elements.consumeLight}}: Summon Sun Demon",
             "Heal 6, Self",
             "Shield 1"
           ],
@@ -6347,11 +6382,11 @@
           "attack": 6,
           "range": 0,
           "special1": [
-            "{{resources.elements.consumeNight}}: Summon Night Demon",
+            "{{resources.elements.consumeDark}}: Summon Night Demon",
             "Invisible, Self"
           ],
           "special2": [
-            "{{resources.elements.consumeDay}}: Summon Sun Demon",
+            "{{resources.elements.consumeLight}}: Summon Sun Demon",
             "Heal 7, Self",
             "Shield 1"
           ],
@@ -6371,11 +6406,11 @@
           "attack": 7,
           "range": 0,
           "special1": [
-            "{{resources.elements.consumeNight}}: Summon Night Demon",
+            "{{resources.elements.consumeDark}}: Summon Night Demon",
             "Invisible, Self"
           ],
           "special2": [
-            "{{resources.elements.consumeDay}}: Summon Sun Demon",
+            "{{resources.elements.consumeLight}}: Summon Sun Demon",
             "Heal 7, Self",
             "Shield 1"
           ],
