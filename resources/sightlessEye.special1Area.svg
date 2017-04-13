@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="821.31822"
+     inkscape:cx="657.16843"
      inkscape:cy="620.88673"
      inkscape:document-units="mm"
      inkscape:current-layer="g4737"
@@ -35,7 +35,8 @@
      inkscape:window-height="1537"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="true" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -56,6 +57,11 @@
     <g
        id="g4737"
        transform="matrix(0.26458333,0,0,0.26458333,-32.737811,152.33149)">
+      <path
+         d="M 247.70904,60.608658 87.125082,153.32062 -73.457546,60.608658 V -124.81796 l 160.582628,-92.71198 160.583958,92.71198 z"
+         style="fill:#f5f5f5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333302"
+         id="path4497-5-3-2"
+         inkscape:connector-curvature="0" />
       <g
          id="g4542-3"
          transform="matrix(1.333333,0,0,-1.333333,50.000023,449.99972)">
