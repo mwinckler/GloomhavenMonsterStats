@@ -1987,6 +1987,7 @@
             "attack": 1,
             "range": 3,
             "attributes": [
+              "Flying",
               "Shield 1"
             ]
           },
@@ -1996,6 +1997,7 @@
             "attack": 1,
             "range": 3,
             "attributes": [
+              "Flying",
               "Shield 1"
             ]
           }
@@ -2008,6 +2010,7 @@
             "attack": 1,
             "range": 3,
             "attributes": [
+              "Flying",
               "Shield 1"
             ]
           },
@@ -2017,6 +2020,7 @@
             "attack": 2,
             "range": 3,
             "attributes": [
+              "Flying",
               "Shield 1"
             ]
           }
@@ -2029,6 +2033,7 @@
             "attack": 2,
             "range": 3,
             "attributes": [
+              "Flying",
               "Shield 1"
             ]
           },
@@ -2038,6 +2043,7 @@
             "attack": 2,
             "range": 3,
             "attributes": [
+              "Flying",
               "Curse",
               "Shield 1"
             ]
@@ -2051,6 +2057,7 @@
             "attack": 2,
             "range": 4,
             "attributes": [
+              "Flying",
               "Shield 1"
             ]
           },
@@ -2060,6 +2067,7 @@
             "attack": 2,
             "range": 4,
             "attributes": [
+              "Flying",
               "Curse",
               "Shield 1"
             ]
@@ -2073,6 +2081,7 @@
             "attack": 2,
             "range": 4,
             "attributes": [
+              "Flying",
               "Shield 2"
             ]
           },
@@ -2082,6 +2091,7 @@
             "attack": 2,
             "range": 4,
             "attributes": [
+              "Flying",
               "Curse",
               "Shield 2"
             ]
@@ -2095,6 +2105,7 @@
             "attack": 2,
             "range": 4,
             "attributes": [
+              "Flying",
               "Curse",
               "Shield 2"
             ]
@@ -2105,6 +2116,7 @@
             "attack": 3,
             "range": 4,
             "attributes": [
+              "Flying",
               "Curse",
               "Shield 2"
             ]
@@ -2118,6 +2130,7 @@
             "attack": 3,
             "range": 4,
             "attributes": [
+              "Flying",
               "Curse",
               "Shield 2"
             ]
@@ -2128,6 +2141,7 @@
             "attack": 4,
             "range": 4,
             "attributes": [
+              "Flying",
               "Curse",
               "Shield 2"
             ]
@@ -2141,6 +2155,7 @@
             "attack": 3,
             "range": 4,
             "attributes": [
+              "Flying",
               "Curse",
               "Shield 2"
             ]
@@ -2151,6 +2166,7 @@
             "attack": 4,
             "range": 4,
             "attributes": [
+              "Flying",
               "Curse",
               "Shield 2"
             ]
@@ -3470,6 +3486,7 @@
             "attack": 2,
             "range": 2,
             "attributes": [
+              "Flying",
               "Shield 1"
             ]
           },
@@ -3479,6 +3496,7 @@
             "attack": 3,
             "range": 3,
             "attributes": [
+              "Flying",
               "Shield 2"
             ]
           }
@@ -3491,6 +3509,7 @@
             "attack": 2,
             "range": 2,
             "attributes": [
+              "Flying",
               "Shield 2"
             ]
           },
@@ -3500,6 +3519,7 @@
             "attack": 3,
             "range": 3,
             "attributes": [
+              "Flying",
               "Shield 3"
             ]
           }
@@ -3512,6 +3532,7 @@
             "attack": 2,
             "range": 3,
             "attributes": [
+              "Flying",
               "Shield 2"
             ]
           },
@@ -3521,6 +3542,7 @@
             "attack": 3,
             "range": 4,
             "attributes": [
+              "Flying",
               "Shield 3"
             ]
           }
@@ -3533,6 +3555,7 @@
             "attack": 3,
             "range": 3,
             "attributes": [
+              "Flying",
               "Shield 2"
             ]
           },
@@ -3542,6 +3565,7 @@
             "attack": 4,
             "range": 4,
             "attributes": [
+              "Flying",
               "Shield 3"
             ]
           }
@@ -3554,6 +3578,7 @@
             "attack": 3,
             "range": 3,
             "attributes": [
+              "Flying",
               "Shield 3"
             ]
           },
@@ -3563,6 +3588,7 @@
             "attack": 4,
             "range": 4,
             "attributes": [
+              "Flying",
               "Shield 4"
             ]
           }
@@ -3575,6 +3601,7 @@
             "attack": 3,
             "range": 4,
             "attributes": [
+              "Flying",
               "Shield 3"
             ]
           },
@@ -3584,6 +3611,7 @@
             "attack": 4,
             "range": 4,
             "attributes": [
+              "Flying",
               "Shield 4"
             ]
           }
@@ -3596,6 +3624,7 @@
             "attack": 4,
             "range": 4,
             "attributes": [
+              "Flying",
               "Shield 3"
             ]
           },
@@ -3605,6 +3634,7 @@
             "attack": 5,
             "range": 5,
             "attributes": [
+              "Flying",
               "Shield 4"
             ]
           }
@@ -3617,6 +3647,7 @@
             "attack": 4,
             "range": 4,
             "attributes": [
+              "Flying",
               "Shield 3"
             ]
           },
@@ -3626,6 +3657,7 @@
             "attack": 5,
             "range": 5,
             "attributes": [
+              "Flying",
               "Shield 4"
             ]
           }
@@ -4716,14 +4748,18 @@
             "move": 3,
             "attack": 3,
             "range": 3,
-            "attributes": []
+            "attributes": [
+              "Flying"
+            ]
           },
           "elite": {
             "health": 8,
             "move": 3,
             "attack": 4,
             "range": 4,
-            "attributes": []
+            "attributes": [
+              "Flying"
+            ]
           }
         },
         {
@@ -4733,7 +4769,9 @@
             "move": 3,
             "attack": 3,
             "range": 3,
-            "attributes": []
+            "attributes": [
+              "Flying"
+            ]
           },
           "elite": {
             "health": 9,
@@ -4741,6 +4779,7 @@
             "attack": 4,
             "range": 4,
             "attributes": [
+              "Flying",
               "Muddle"
             ]
           }
@@ -4753,6 +4792,7 @@
             "attack": 3,
             "range": 3,
             "attributes": [
+              "Flying",
               "Muddle"
             ]
           },
@@ -4762,6 +4802,7 @@
             "attack": 5,
             "range": 4,
             "attributes": [
+              "Flying",
               "Muddle"
             ]
           }
@@ -4774,6 +4815,7 @@
             "attack": 4,
             "range": 4,
             "attributes": [
+              "Flying",
               "Muddle"
             ]
           },
@@ -4783,6 +4825,7 @@
             "attack": 5,
             "range": 5,
             "attributes": [
+              "Flying",
               "Muddle"
             ]
           }
@@ -4795,6 +4838,7 @@
             "attack": 4,
             "range": 4,
             "attributes": [
+              "Flying",
               "Muddle"
             ]
           },
@@ -4804,6 +4848,7 @@
             "attack": 5,
             "range": 5,
             "attributes": [
+              "Flying",
               "Muddle"
             ]
           }
@@ -4816,6 +4861,7 @@
             "attack": 4,
             "range": 4,
             "attributes": [
+              "Flying",
               "Muddle"
             ]
           },
@@ -4825,6 +4871,7 @@
             "attack": 6,
             "range": 5,
             "attributes": [
+              "Flying",
               "Muddle"
             ]
           }
@@ -4837,6 +4884,7 @@
             "attack": 5,
             "range": 4,
             "attributes": [
+              "Flying",
               "Muddle"
             ]
           },
@@ -4846,6 +4894,7 @@
             "attack": 6,
             "range": 5,
             "attributes": [
+              "Flying",
               "Muddle"
             ]
           }
@@ -4858,6 +4907,7 @@
             "attack": 5,
             "range": 4,
             "attributes": [
+              "Flying",
               "Muddle"
             ]
           },
@@ -4867,6 +4917,7 @@
             "attack": 7,
             "range": 5,
             "attributes": [
+              "Flying",
               "Muddle"
             ]
           }
@@ -5053,6 +5104,7 @@
             "attack": 2,
             "range": 0,
             "attributes": [
+              "Flying",
               "Advantage",
               "Shield 1"
             ]
@@ -5063,6 +5115,7 @@
             "attack": 3,
             "range": 0,
             "attributes": [
+              "Flying",
               "Advantage",
               "Shield 1"
             ]
@@ -5076,6 +5129,7 @@
             "attack": 2,
             "range": 0,
             "attributes": [
+              "Flying",
               "Advantage",
               "Shield 1"
             ]
@@ -5086,6 +5140,7 @@
             "attack": 3,
             "range": 0,
             "attributes": [
+              "Flying",
               "Advantage",
               "Shield 1"
             ]
@@ -5099,6 +5154,7 @@
             "attack": 2,
             "range": 0,
             "attributes": [
+              "Flying",
               "Advantage",
               "Shield 1"
             ]
@@ -5109,6 +5165,7 @@
             "attack": 4,
             "range": 0,
             "attributes": [
+              "Flying",
               "Advantage",
               "Shield 1"
             ]
@@ -5122,6 +5179,7 @@
             "attack": 3,
             "range": 0,
             "attributes": [
+              "Flying",
               "Advantage",
               "Shield 1"
             ]
@@ -5132,6 +5190,7 @@
             "attack": 4,
             "range": 0,
             "attributes": [
+              "Flying",
               "Advantage",
               "Shield 1"
             ]
@@ -5145,6 +5204,7 @@
             "attack": 3,
             "range": 0,
             "attributes": [
+              "Flying",
               "Advantage",
               "Shield 1"
             ]
@@ -5155,6 +5215,7 @@
             "attack": 5,
             "range": 0,
             "attributes": [
+              "Flying",
               "Advantage",
               "Shield 1"
             ]
@@ -5168,6 +5229,7 @@
             "attack": 3,
             "range": 0,
             "attributes": [
+              "Flying",
               "Advantage",
               "Shield 2"
             ]
@@ -5178,6 +5240,7 @@
             "attack": 5,
             "range": 0,
             "attributes": [
+              "Flying",
               "Advantage",
               "Shield 2"
             ]
@@ -5191,6 +5254,7 @@
             "attack": 4,
             "range": 0,
             "attributes": [
+              "Flying",
               "Advantage",
               "Shield 2"
             ]
@@ -5201,6 +5265,7 @@
             "attack": 5,
             "range": 0,
             "attributes": [
+              "Flying",
               "Advantage",
               "Shield 2"
             ]
@@ -5214,6 +5279,7 @@
             "attack": 4,
             "range": 0,
             "attributes": [
+              "Flying",
               "Advantage",
               "Shield 2"
             ]
@@ -5224,6 +5290,7 @@
             "attack": 5,
             "range": 0,
             "attributes": [
+              "Flying",
               "Advantage",
               "Shield 2"
             ]
@@ -5561,6 +5628,7 @@
             "attack": 2,
             "range": 3,
             "attributes": [
+              "Flying",
               "Shield 1"
             ]
           },
@@ -5570,6 +5638,7 @@
             "attack": 3,
             "range": 4,
             "attributes": [
+              "Flying",
               "Shield 1"
             ]
           }
@@ -5582,6 +5651,7 @@
             "attack": 2,
             "range": 3,
             "attributes": [
+              "Flying",
               "Shield 2"
             ]
           },
@@ -5591,6 +5661,7 @@
             "attack": 3,
             "range": 4,
             "attributes": [
+              "Flying",
               "Shield 2"
             ]
           }
@@ -5603,6 +5674,7 @@
             "attack": 2,
             "range": 3,
             "attributes": [
+              "Flying",
               "Shield 2"
             ]
           },
@@ -5612,6 +5684,7 @@
             "attack": 3,
             "range": 4,
             "attributes": [
+              "Flying",
               "Shield 2"
             ]
           }
@@ -5624,6 +5697,7 @@
             "attack": 3,
             "range": 3,
             "attributes": [
+              "Flying",
               "Shield 2"
             ]
           },
@@ -5633,6 +5707,7 @@
             "attack": 4,
             "range": 4,
             "attributes": [
+              "Flying",
               "Shield 2"
             ]
           }
@@ -5645,6 +5720,7 @@
             "attack": 3,
             "range": 3,
             "attributes": [
+              "Flying",
               "Shield 2"
             ]
           },
@@ -5654,6 +5730,7 @@
             "attack": 4,
             "range": 4,
             "attributes": [
+              "Flying",
               "Disarm",
               "Shield 2"
             ]
@@ -5667,6 +5744,7 @@
             "attack": 3,
             "range": 4,
             "attributes": [
+              "Flying",
               "Shield 2"
             ]
           },
@@ -5676,6 +5754,7 @@
             "attack": 4,
             "range": 4,
             "attributes": [
+              "Flying",
               "Disarm",
               "Shield 2"
             ]
@@ -5689,6 +5768,7 @@
             "attack": 3,
             "range": 4,
             "attributes": [
+              "Flying",
               "Shield 3"
             ]
           },
@@ -5698,6 +5778,7 @@
             "attack": 4,
             "range": 4,
             "attributes": [
+              "Flying",
               "Disarm",
               "Shield 3"
             ]
@@ -5711,6 +5792,7 @@
             "attack": 4,
             "range": 4,
             "attributes": [
+              "Flying",
               "Shield 3"
             ]
           },
@@ -5720,6 +5802,7 @@
             "attack": 5,
             "range": 4,
             "attributes": [
+              "Flying",
               "Disarm",
               "Shield 3"
             ]
